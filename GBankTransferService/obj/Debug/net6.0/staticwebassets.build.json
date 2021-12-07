@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6R4eMTROxJQi+cmInY9ClhsnIigldvlHO0gRAgouM5g=",
+  "Source": "GBankTransferService",
+  "BasePath": "_content/GBankTransferService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

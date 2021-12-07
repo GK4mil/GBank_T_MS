@@ -23,7 +23,7 @@ namespace GBankTransferService.Controllers
         [HttpGet]
         public async Task<String> Get()
         {
-            return "OK";
+            return "Dodano";
         }
     }
 }

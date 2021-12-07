@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2da50c4f-3f52-4491-a136-fce6611ea25d": {
+      "ProjectGuid": "2da50c4f-3f52-4491-a136-fce6611ea25d",
+      "DisplayName": "GBankTransferService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
